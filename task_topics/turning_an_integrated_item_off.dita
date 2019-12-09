@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="turning_an_integrated_item_off">
+    <title>Turning an Integrated Item Off</title>
+    <shortdesc>Integrations may need to be turned off, if your company no longer uses said
+        integration, or it is no longer necessary for the project at hand. It can be quickly turned
+        off from the Boards Page. </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>From the board page, click the integration button on the top of the screen. (The icon within the button is shaped like an electrical plug). 
+                </cmd>
+                <info>
+                    <fig id="fig_jq1_szm_zjb">
+                        <title>Electrical Plug Icon</title>
+                        <image placement="break"
+                            href="../images/Screen%20Shot%202019-11-24%20at%2010.02.36%20PM.png"
+                            align="left" id="image_kq1_szm_zjb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd> Click the Board Integrations tab on the top of the screen.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Find the item you wish to turn off and click the green button to turn the integration off.
+                </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

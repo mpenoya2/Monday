@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="c_integrating_monday">
+    <title>Integrating Monday with Outside Applications</title>
+    <shortdesc> Monday allows users to connect with other apps. Connecting with other apps can
+        notify communication channels when changes have been made to a task.  Monday allows you to
+        connect with Gmail, iCalander, Slack, Drive, Dropbox, MailChimp, Jira and many others.
+        Integrations are a great way to make sure everyone is on the same page and up to date with
+        tasks and projects. </shortdesc>
+    <taskbody>
+      
+        <prereq>
+            <p>If you want to connect Monday to an app, you must have an active account for the app
+                you want to integrate. You must also login to Monday. </p>
+           
+        </prereq>
+        <context> Integration makes for seemless communication for projects. Follow the steps below
+            to integrate Monday with an outside application.</context>
+        <steps>
+            <step>
+                <cmd>From the board page, click the integration button on the top of the screen. (The icon within the button is shaped like an electrical plug). 
+                </cmd>
+                <info>
+                    <fig id="fig_wxc_sjn_vjb">
+                        <title>Integration Button</title>
+                        <image placement="break"
+                            href="Screen%20Shot%202019-11-24%20at%2010.02.36%20PM.png" width="1in"
+                            height="1in" align="left" id="image_xxc_sjn_vjb">
+                            <alt>I Button</alt>
+                        </image>
+                    </fig>
+                </info>
+               
+                
+            </step>
+            
+            <step>
+                <cmd>You can search for the app in the search bar or look for the app in the app list. </cmd>
+                <info><p>Click the app you wish to integrate.<fig id="fig_yrj_vjn_vjb">
+                            <title>Select App</title>
+                            <image placement="break"
+                                href="Screen%20Shot%202019-11-24%20at%2010.06.45%20PM.png"
+                                width="4in" height="3in" align="left" id="image_zrj_vjn_vjb"/>
+                        </fig></p></info>  
+            </step>
+            
+            <step>
+                <cmd>Select which option you wish to integrate.</cmd>
+                <info><p>Monday will request you sign in or select a connected account. <fig id="fig_vhp_zjn_vjb">
+                            <title>Connect Your Account</title>
+                            <image placement="break"
+                                href="Screen%20Shot%202019-11-24%20at%2010.10.12%20PM.png"
+                                width="4in" height="3in" align="left" id="image_whp_zjn_vjb">
+                                <alt>Account</alt>
+                            </image>
+                        </fig></p></info>  
+            </step>
+            
+            <step>
+                <cmd>Connect account to Monday and your integration will be active. </cmd>
+            </step>
+            
+        </steps>
+    </taskbody>
+</task>

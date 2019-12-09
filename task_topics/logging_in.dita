@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="logging_in">
+    <title>Logging In</title>
+
+    <shortdesc>Logging in and creating an account is the first step you must take to use monday.com. A 30-day trial is available for users to try the program before committing, and the website can be used for free if you are a student and have a student email. If you have an account:
+    </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Go to monday.com</cmd>
+            </step>
+            <step>
+                <cmd>Click the “Log In” button in the top right corner</cmd>
+            </step>
+            <step>
+                <cmd>Enter your account email and password into the text boxes</cmd>
+            </step>
+            <step>
+                <cmd>Click the “Log In” button</cmd>
+            </step>
+        </steps>
+        <info><p>Or to create an account:</p></info>
+        
+        <steps>
+            <step>
+                <cmd>Go to monday.com</cmd>
+            </step>
+            <step>
+                <cmd>Click the “sign up” button in the middle of the screen under the text input box
+                </cmd>
+            </step>
+            <step>
+                <cmd>Enter your work email </cmd>
+            </step>
+            <step>
+                <cmd>Click the “Sign Up” button</cmd>
+                <info>
+                    <fig id="fig_i21_lqm_zjb">
+                        <title>Logging into Monday.com</title>
+                        <image placement="break" href="../images/logging_in.png" align="left"
+                            id="image_j21_lqm_zjb"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="../concept_topics/getting_started.dita"/>
+    </related-links>
+</task>

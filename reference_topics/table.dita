@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="table">
+    <title>Pricing Options</title>
+    <body>
+        <p>Monday.com offers a variety of different Pricing Options to suit your businesses needs.
+            Depending on the amount of users your company has, and the features you want from
+            Monday, you can easily select the plan that works best. Some options for an enterprise
+            level need to be discussed with Monday first, as certain features may have to be
+            changed. Whatever your company needs, Monday has the plan for you.</p>
+        <table frame="all" rowsep="1" colsep="1" id="table_fp4_1j2_zjb">
+            <title>Pricing Options</title>
+            <tgroup cols="5">
+                <colspec colname="c1" colnum="1" colwidth="1*" align="center"/>
+                <colspec colname="c2" colnum="2" colwidth="1*" align="center"/>
+                <colspec colname="c3" colnum="3" colwidth="1*" align="center"/>
+                <colspec colname="c4" colnum="4" colwidth="1*" align="center"/>
+                <colspec colname="c5" colnum="5" colwidth="1*" align="center"/>
+                <thead>
+                    <row>
+                        <entry>User Amount</entry>
+                        <entry>Basic</entry>
+                        <entry>Standard</entry>
+                        <entry>Pro</entry>
+                        <entry>Enterprise</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>5</entry>
+                        <entry>$39</entry>
+                        <entry>$49</entry>
+                        <entry>$79</entry>
+                        <entry>Contact Monday.com</entry>
+                    </row>
+                    <row>
+                        <entry>10</entry>
+                        <entry>$79</entry>
+                        <entry>$99</entry>
+                        <entry>$159</entry>
+                        <entry>Contact Monday.com</entry>
+                    </row>
+                    <row>
+                        <entry>15</entry>
+                        <entry>$119</entry>
+                        <entry>$149</entry>
+                        <entry>$239</entry>
+                        <entry>Contact Monday.com</entry>
+                    </row>
+                    <row>
+                        <entry>20</entry>
+                        <entry>$159</entry>
+                        <entry>$199</entry>
+                        <entry>$319</entry>
+                        <entry>Contact Monday.com</entry>
+                    </row>
+                    <row>
+                        <entry>25</entry>
+                        <entry>$199</entry>
+                        <entry>$249</entry>
+                        <entry>$399</entry>
+                        <entry>Contact Monday.com</entry>
+                    </row>
+                    <row>
+                        <entry>30</entry>
+                        <entry>$239</entry>
+                        <entry>$299</entry>
+                        <entry>$439</entry>
+                        <entry>Contact Monday.com</entry>
+                    </row>
+                    <row>
+                        <entry>40</entry>
+                        <entry>$319</entry>
+                        <entry>$399</entry>
+                        <entry>$639</entry>
+                        <entry>Contact Monday.com</entry>
+                    </row>
+                    <row>
+                        <entry>50</entry>
+                        <entry>$399</entry>
+                        <entry>$499</entry>
+                        <entry>$799</entry>
+                        <entry>Contact Monday.com</entry>
+                    </row>
+                    <row>
+                        <entry>100</entry>
+                        <entry>$799</entry>
+                        <entry>$999</entry>
+                        <entry>$1599</entry>
+                        <entry>Contact Monday.com</entry>
+                    </row>
+                    <row>
+                        <entry>200+</entry>
+                        <entry>Contact Monday.com</entry>
+                        <entry>Contact Monday.com</entry>
+                        <entry>Contact Monday.com</entry>
+                        <entry>Contact Monday.com</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </body>
+</topic>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="glossary_reference">
+    <title>Monday.com Glossary</title>
+    <shortdesc>These are some terms you may need to know to operate Monday.com</shortdesc>
+    <refbody> <table>
+        <tgroup cols="1">
+            <tbody>
+                <row>
+                    <entry><b>Board - </b>A board is where you can manage things within Monday.com. These things could be a group project, a task board, a roadmap, sales pipeline, or a budget</entry>
+                </row> 
+                <row>
+                    <entry><b> Main Board - </b> Board that is visable to anyone who is a teammember
+                            on the account. Anything created on this board will be accessible to
+                            your team.</entry>
+                </row> 
+                <row>
+                    <entry><b>Shared Board- </b>Board that is viewable to people outside of your
+                            team. You can adjust settings to allow the board to be viewed only and
+                            not edited. </entry>
+                </row> 
+                <row>
+                    <entry><b>Private Board - </b>A board that is only accesiable to those who are
+                            invited to edit or view the board. </entry>
+                </row> 
+                <row>
+                    <entry><b>Board Owner- </b> The person who created the board or a subscriber
+                            that has been granted admin privlages.</entry>
+                </row>
+                <row>
+                    <entry><b>Automations - </b> Increase producivity by automatically completing
+                            actions within Monday.com. </entry>
+                </row>
+                <row>
+                    <entry><b>Integrations- </b> Connecting Monday.com to outside software for
+                            increased productivity and better communication. </entry>
+                </row>
+                <row>
+                    <entry><b>Three dots Menu-.</b> Main menu located in the top right corner of the
+                            board page. </entry>
+                </row>
+            </tbody>
+        </tgroup>
+    </table></refbody>
+</reference>

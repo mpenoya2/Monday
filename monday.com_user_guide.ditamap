@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+
+<map id="monday.com_user_guide">
+    <title>Monday.com User Guide</title>
+    
+    <topicref href="concept_topics/introduction.dita" audience="Manager Employee"/>
+    
+
+    <topicref href="concept_topics/getting_started.dita" audience="Manager Employee">
+    
+
+        <topicref href="task_topics/logging_in.dita" audience="Manager Employee">
+        </topicref>
+    
+        <topicref href="task_topics/forgot_your_password.dita" audience="Manager Employee">
+        </topicref>
+    
+        <topicref href="task_topics/inviting_new_users.dita" audience="Manager Employee">
+        </topicref>
+
+        <topicref href="reference_topics/getting_help.dita" audience="Manager Employee">
+        </topicref>
+        
+    </topicref>
+    
+    <topicref href="concept_topics/inbox.dita" audience="Manager Employee">
+        <topicref href="task_topics/accessing_your_inbox.dita" audience="Manager Employee">
+        </topicref>
+        
+        <topicref href="task_topics/dismissing_updates_from_your_inbox.dita" audience="Manager Employee">
+        </topicref>
+    </topicref>
+    
+    <topicref href="concept_topics/my_week.dita" audience="Manager Employee">
+        <topicref href="task_topics/accessing_the_my_week_page.dita" audience="Manager Employee">
+        </topicref>
+        
+        <topicref href="task_topics/changing_the_week.dita" audience="Manager Employee">
+        </topicref>
+        
+        <topicref href="task_topics/viewing_deadlines.dita" audience="Manager Employee">
+        </topicref>
+        
+        <topicref href="task_topics/editing_deadlines.dita" audience="Manager">
+        </topicref>
+        
+        <topicref href="task_topics/hiding_deadlines.dita" audience="Manager">
+        </topicref>
+        
+        <topicref href="task_topics/unhiding_deadlines.dita" audience="Manager">
+        </topicref>
+        
+    </topicref>
+    
+    <topicref href="concept_topics/boards.dita" audience="Manager Employee">
+        <topicref href="task_topics/creating_a_board.dita" audience="Manager Employee">
+        </topicref>
+        
+        <topicref href="task_topics/creating_a_blank_board.dita" audience="Manager Employee">
+        </topicref>
+        
+        <topicref href="task_topics/editing_group_title.dita" audience="Manager Employee">
+        </topicref>
+        
+        <topicref href="task_topics/editing_board_items.dita" audience="Manager Employee">
+        </topicref>
+        
+        <topicref href="task_topics/adding_people_to_a_board.dita" audience="Manager Employee">
+        </topicref>
+        
+        <topicref href="task_topics/editing_board_status.dita" audience="Manager Employee">
+        </topicref>
+       
+        <topicref href="task_topics/adding_a_column_to_a_board.dita" audience="Manager Employee">
+        </topicref>
+       
+        <topicref href="task_topics/viewing_archived_items_and_groups.dita" audience="Manager Employee">
+        </topicref>
+       
+    </topicref>
+    
+    <topicref href="concept_topics/integrations.dita" audience="Manager">
+        <topicref href="task_topics/integrating_monday_with_outside_applications.dita" audience="Manager">
+        </topicref>
+        
+        <topicref href="task_topics/turning_an_integrated_item_off.dita" audience="Manager">
+        </topicref>
+        
+    </topicref>
+    
+    <topicref href="concept_topics/automations.dita" audience="Manager">
+        <topicref href="task_topics/creating_an_automation.dita" audience="Manager">
+        </topicref>
+        
+        <topicref href="concept_topics/automations_center.dita" audience="Manager">
+            <topicref href="concept_topics/automations_center_introduction.dita" audience="Manager">
+            </topicref>
+            
+            <topicref href="task_topics/adding_an_automation_to_a_board.dita" audience="Manager">
+            </topicref>
+            
+        </topicref>
+     
+            
+    </topicref>
+    
+</map>
+
+<?oxy_options track_changes="on"?>

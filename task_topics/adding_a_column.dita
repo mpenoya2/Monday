@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="c_adding_a_column">
+    <title>Adding a Column to a Board</title>
+    <shortdesc> Columns are an important part of the orginaization of Monday. Columns allow users to
+        customize their board to fit their specific needs.  </shortdesc>
+    <taskbody>
+      
+        <prereq>
+            <p>Before you can add a column to a board, you must login and create a board.</p>
+           
+        </prereq>
+        <context> You may want to add a cloumn to add tags to task, make a timeline, add text or add
+            numbers. Adding these elements can further customize your board and increase clarity. </context>
+        <steps>
+            <step>
+                <cmd>From the board page, click the + button on the right side of the board.</cmd>
+                <info>
+                    <fig id="fig_n4v_cbn_vjb">
+                        <title>Click the Plus</title>
+                        <image placement="break"
+                            href="Screen%20Shot%202019-11-24%20at%208.52.50%20PM.png" width="1in"
+                            height="1in" align="left" id="image_o4v_cbn_vjb">
+                            <alt>Column</alt>
+                        </image>
+                    </fig>
+                </info>
+            </step>
+            
+            <step>
+                <cmd>Choose the type of new column you want to create.</cmd>
+                <info>
+                    <fig id="fig_ygg_3bn_vjb">
+                        <title>Select Type of Column</title>
+                        <image placement="break"
+                            href="Screen%20Shot%202019-11-24%20at%208.52.19%20PM.png" width="1in"
+                            height="2in" align="left" id="image_zgg_3bn_vjb">
+                            <alt>Type</alt>
+                        </image>
+                    </fig>
+                    <p>Your column is added to the board and can be edited.</p>
+                </info>
+            </step>
+            
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="hiding_deadlines">
+    <title>Hiding Deadlines</title>
+    
+    <shortdesc> Deadlines may need to be hidden if they are cluttering your My Week page, or are
+        currently not a top priority. Hiding them is simple, and can be quickly reversed if
+        necessary. To hide a deadline:</shortdesc>
+    <taskbody>
+    <steps>
+        <step>
+                <cmd>Select the “Hide” text link to the right of the deadline </cmd>
+            </step>
+        <step>
+            
+            <cmd>The Deadline will now be hidden and will not be visible on your “My Week” page
+            </cmd>
+        </step>
+    </steps>
+    </taskbody>
+    <related-links>
+        <link href="../concept_topics/my_week.dita"/>
+    </related-links>
+</task>

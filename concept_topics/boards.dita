@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="boards">
+    <title>Boards</title>
+    <body>
+        <p>Boards are the main function of Monday.com. Boards are where users come together to view
+            tasks, project statuses, see deadlines, and see the overall project.</p>
+        <p>Depending on the clearance level of the user, changes within the board can be made, such
+            as deadlines, otherwise they can only be viewed unless given permission. Admins can add
+            or remove users if necessary, and add columns to the board. </p>
+        <p>The following video will assist in Board creation and editing the contents:</p><object
+            data="https://www.youtube.com/embed/3ICfdmaR4to"
+                outputclass="iframe"/>
+    </body>
+    <related-links>
+        <link href="../task_topics/creating_a_board.dita"/>
+        <link href="../task_topics/creating_a_blank_board.dita"/>
+        <link href="../task_topics/editing_group_title.dita"/>
+        <link href="../task_topics/editing_board_items.dita"/>
+        <link href="../task_topics/adding_people_to_a_board.dita"/>
+        <link href="../task_topics/editing_board_status.dita"/>
+        <link href="../task_topics/adding_a_column.dita"/>
+        <link href="../task_topics/viewing_archived_items.dita"/>
+      
+      
+    </related-links>
+</topic>

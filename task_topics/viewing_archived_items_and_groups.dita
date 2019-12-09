@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="viewing_archived_items_and_groups">
+    <title>Viewing Archived Items and Groups</title>
+    <shortdesc>A board can be archived and looked at for future reference. These boards will
+        disappear when archived, and can only be found in the Arcbived Tab afterwards. Indivuals
+        items or whole boards are also able to be archived, depnding on what needs to be
+        saved.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>From a Boards page, select the three dots icon at the top right of the board
+                    page</cmd>
+                <info>
+                    <fig id="fig_tsn_yym_zjb">
+                        <title>Menu Button</title>
+                        <image placement="break"
+                            href="../images/Screen%20Shot%202019-11-24%20at%209.23.55%20PM.png"
+                            align="left" id="image_usn_yym_zjb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>A dropdown will appear, select "Archived Tasks/Groups"</cmd>
+            </step>
+            <step>
+                <cmd>The Archived Tasks/Groups Page will now apear, with viewing for any archived items</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

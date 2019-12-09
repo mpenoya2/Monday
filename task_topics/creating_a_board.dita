@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_h4y_rsk_vjb">
+    <title>Creating a Board</title>
+    <shortdesc>This task allows you to create an empty board on monday.com. This is an essential
+        task in using the website and you have to do this to use most features of the site. This
+        task will have you create, name, and set the visibility opf a board.</shortdesc>
+    <taskbody>
+        
+        <context>Boards on monday.com are used to contain different projects. You can allow
+            different people access to different boards so that only people who are on a project
+            have access to the board. You want to give a name to the blank board because the name
+            will help distinguish it from other boards. You want to make the board visible if you
+            are ready to reveal the project and you want to make the board invisible if you don't
+            want others to have access to it yet.</context>
+        
+        <steps>
+            <step>
+                <cmd>From the homepage click on the blue "+" button on the upper left side of the screen.</cmd>
+            </step>
+            
+            <step>
+                <cmd>You may choose any of the following options: "Blank Board," "Choose From
+                    Template," "Import," "New Folder"  </cmd>
+                <info>
+                    <fig id="fig_u1x_vxm_zjb">
+                        <title>Creating a Black Board</title>
+                        <image placement="break" href="../images/creating_a_blank_board.png"
+                            align="left" scale="25" id="image_v1x_vxm_zjb"/>
+                    </fig>
+                </info>
+            </step>
+            
+            <step>
+                <cmd>A new board will be created based on the option that you selected.</cmd>                
+            </step>
+            
+        </steps>
+        
+    </taskbody>
+    
+</task>

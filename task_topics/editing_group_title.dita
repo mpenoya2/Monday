@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ffs_lvk_vjb">
+    <title>Editing Group Title</title>
+    <shortdesc>This task allows you to change the title of a group. You would use this if the focus
+        of the group changes, if you change what is in the group, or if the original name that you
+        gave the group is not longer related to the purpose of the group.</shortdesc>
+    <taskbody>
+        
+        <context>
+            <p>You can create different groups of items within different boards so that other people
+                who are on a project can better understand how the board is organized and divided
+                up. You want to give a fitting name to the group because the name will help
+                distinguish it from other groups.</p>
+        </context>
+        
+        <steps>
+            <step>
+                <cmd>From the Board page, click on the “group title” on the top of a board  </cmd>
+                <info>
+                    <fig id="fig_v4z_2ym_zjb">
+                        <title>Editing the Group Title</title>
+                        <image placement="break" href="../images/editing_group_title.png" scale="25"
+                            align="left" id="image_w4z_2ym_zjb"/>
+                    </fig>
+                </info>
+            </step>
+            
+            <step>
+                <cmd>It will then give you an option to input a new name</cmd>
+            </step>
+            
+            <step>
+                <cmd>Type the desired name and hit the Enter key</cmd>
+            </step>
+            
+        </steps>
+        
+    </taskbody>
+    
+</task>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="accessing_your_inbox_0">
+    <title>Accessing Your Inbox</title>
+    <shortdesc>This section will detail how to access the inbox, a main feature of Monday.com. Here
+        users can see notifications, updates, and messages from coworkers. They can quickly view the
+        information without having to go into individual projects.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>The Inbox is automatically shown on the homepage of Monday.com</cmd>
+            </step>
+            <step>
+                <cmd>If not located, click on the Monday logo in the top left to bring you back
+                    home, the inbox will now be available.
+                    <image href="../images/accessing_your_inbox.png" id="image_gdd_pbm_zjb"/>
+                </cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="../concept_topics/inbox.dita"/>
+    </related-links>
+</task>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="c_adding_people_to_a_board">
+    <title>Adding People to a Board</title>
+    <shortdesc>
+        Adding people to a board will allow for collaboration. If people are allowed to collaborate effictivly, productivity of work will increase. 
+    </shortdesc>
+    <taskbody>
+      
+        <prereq>
+            <p>Before you can add someone to a board, you must login and create a board.</p>
+           
+        </prereq>
+        <context>
+            <p>On the standard plan you can invite up to 3 people to a board at no cost. If you invite more than 3 people, you will have to pay for a multi user account.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>From the board page, click on the “+” sign under the person tab.</cmd>
+                <info>
+                    <fig id="fig_tlx_4ym_zjb">
+                        <title>Press the Plus</title>
+                        <image placement="break"
+                            href="../images/Screen%20Shot%202019-11-24%20at%207.26.35%20PM.png"
+                            align="left" id="image_ulx_4ym_zjb"/>
+                    </fig>
+        
+                </info>
+                
+            </step>
+            
+            <step>
+                <cmd>A box will pop up with a text box, and a current list of people on the project.</cmd>
+            </step>
+            <step>
+                <cmd>Select the desired persons name, or send an email to them.</cmd>
+                <info><p>An email invite will be sent to the person and they can join the board.</p></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

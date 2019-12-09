@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_tqc_hyk_vjb">
+    <title>Creating an Automation</title>
+    <shortdesc> This task would be performed in order to create an automation for Monday.com that
+        would cause it to perform a task for you. This is a very common task that you should use as
+        it is very beneficial and cuts out a lot of unnecessary work for you. For example,
+        automations can allow an update to occur based on a status update or they can assign a
+        person as the creator of an item when it is created. This prevents a lot of back-work that
+        team leaders and project managers would otherwise have to perform.</shortdesc>
+    <taskbody>
+        
+        <context>
+            <p dir="ltr">The "Automations Center" tab is opened by default when you click on the
+                Automations Center button from the board page. This tab allows you to create
+                automations that Monday will automatically perform for you when you have that
+                automation active. It features multiple categories of automations on the left side
+                of the screen that you can click on to help you find the automation that you are
+                looking for.</p>
+        </context>
+        
+        <steps>
+            
+            <step>
+                <cmd>From the board page, click the “Automations” button in the top right corner of
+                    the screen. (The icon within the button is shaped like a robot’s head  </cmd>
+                <info>
+                    <fig id="fig_pb4_yzm_zjb">
+                        <title>Creating an Automation</title>
+                        <image placement="break" href="../images/creating_an_automation.png"
+                            scale="40" align="left" id="image_qb4_yzm_zjb"/>
+                    </fig>
+                </info>
+            </step>
+            
+            <step>
+                <cmd>A new screen will open and you will be in the Automations Center tab by default</cmd>
+            </step>
+            
+            <step>
+                <cmd>This is where you can create an automation</cmd>
+            </step>
+        </steps>
+        
+    </taskbody>
+    
+</task>

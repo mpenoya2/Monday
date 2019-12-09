@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_ysv_4py_xjb">
+    <title>Inbox</title>
+    <body>
+        <p>The Inbox is a critical feature of  Monday.com. You may wish to communicate with your
+            team about projects, get updates on tasks, or request help. This section provides help
+            articles to aid you with the Inbox feaure in monday.com. Here you can see updates and
+            project notifications, as well as messages from project partners. In these articles, you
+            will learn how to: </p>
+        <ul id="Help_Articles">
+            <li>Access Your Inbox</li>
+            <li>Dismiss Items From Your Inbox</li>
+        </ul>
+        
+        
+    </body>
+    <related-links>
+        <link href="../task_topics/accessing_your_inbox.dita"/>
+        <link href="../task_topics/dismissing_updates_from_your_inbox.dita"/>
+    </related-links>
+</topic>

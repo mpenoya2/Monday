@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_mxs_h5r_xjb">
+    <title>Getting Started</title>
+    <body>
+        <p>This section provides help articles to aid you in getting set up to use monday.com.
+        In these articles, you will learn:
+        </p>
+        <ul id="Help_Articles">
+            <li>How to create an account</li>
+            <li>How to log in to monday.com</li>
+            <li>How to reset your password if you forget it.</li>
+            <li>How to invite your team members to monday.com</li>
+            <li>How to get help with monday.com if you encounter any difficulties</li>
+        </ul>
+       
+        
+    </body>
+
+    <related-links>
+        <link href="../task_topics/forgot_your_password.dita"/>
+        <link href="../task_topics/logging_in.dita"/>
+        <link href="../task_topics/inviting_new_users.dita"/>
+        <link href="../reference_topics/getting_help.dita"/>
+        
+    </related-links>
+    
+</topic>

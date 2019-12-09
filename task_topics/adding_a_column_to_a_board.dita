@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_a_column_to_a_board">
+    <title>Adding a Column to a Board</title>
+    <shortdesc>In some cases, an extra column might be necessary for custom fields. Whether it's
+        extra deadlines, timelines, notes, or a custom section, it can be quickly added to the
+        board. </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>From the Boards page, locate the board that will be given another column</cmd>
+            </step>
+            <step>
+                <cmd>Select the "+" icon in the top right corner of the board</cmd>
+            </step>
+            <step>
+                <cmd>A dropdown will appear, giving options for the type of columns available. Select the best option for your board</cmd>
+            </step>
+            <step>
+                <cmd>A new column will be created, and can be edited from the boards page</cmd>
+                <info>
+                    <fig id="fig_jw4_vym_zjb">
+                        <title>Adding a Column to a Board</title>
+                        <image placement="break"
+                            href="../images/adding_a_column_to_a_board_screenshot.png" scale="25"
+                            align="left" id="image_kw4_vym_zjb"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

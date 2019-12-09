@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_nkh_rrr_xjb">
+    <title>Introduction</title>
+    <body>
+        <p>Monday.com is a team management web and mobile application. Monday aims to enhance
+            collaboration by managing tasks and by tracking projects and deadlines. Monday is made
+            to accomodate a wide range of business operations, including R&amp;D, marketing, sales,
+            product and customer-management.</p>
+        
+        <p>Monday allows users to connect with other apps.
+            Connecting with other apps can notify communication channels when changes have been made to a task.
+            Monday allows you to connect with Gmail, iCalander, Slack, Drive, Dropbox, MailChimp, Jira and many others.
+            Integrations are a great way to make sure everyone is on the same page and up to date with tasks and projects. 
+        </p>
+        
+        <p>Monday allows users to create automations.
+            Automations within Monday allow tasks that would normally have to be performed by you, to be performed by Monday.com automatically within the program.
+            Using atuomations is a very common task that you will find beneficial and it cuts out a lot of unnecessary work for you.
+            For example, automations can allow an update to occur based on a status update or they can assign a person as the creator of an item when it is created.
+            This prevents a lot of back-work that team leaders and project managers would otherwise have to perform.
+        </p>
+        
+        
+        <p>Visit monday.com below in the related information secction.</p>
+        <p>Also provided is a glossary of terms you may need to operate Monday.com</p>
+    </body>
+    <related-links>
+        <link href="../reference_topics/glossary-reference.dita"/>
+        <link href="http://www.monday.com" format="html" scope="external"/>
+       
+    </related-links>
+</topic>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="c_editing_the_board_status">
+    <title>Creating a Status Button</title>
+    <shortdesc> Monday gives you a big picture view of your project and allows you to instantly see
+        a tasks status. Editing the board status will let your team know where you are in the
+        process of the task. The names and colors of the status can be altered. </shortdesc>
+    <taskbody>
+      
+        <prereq>
+            <p>Before you can add someone to a board, you must login and create a board.</p>
+           
+        </prereq>
+        <context> Creating a custom button can help increse the productivity of your unique team. </context>
+        <steps>
+            <step>
+                <cmd>From the board page, click the box under the “Status” tab.</cmd>
+            </step>
+            
+            <step>
+                <cmd>A box will appear with some options, Select “Add/Edit Labels”</cmd>
+                <info>
+                    <fig id="fig_amj_n5m_vjb">
+                        <title>Creating a new Status</title>
+                        <image placement="break"
+                            href="Screen%20Shot%202019-11-24%20at%208.13.28%20PM.png" width="1in"
+                            height="1in" align="left" id="image_bmj_n5m_vjb">
+                            <alt>Status</alt>
+                        </image>
+                    </fig><p>The board will be automatically updated.</p></info>
+            </step>
+            
+            <step>
+                <cmd>At the bottom, select the desired color for the new button.</cmd>
+                <info><p>A new button will appear.click on it to enter the new name for the label</p></info>
+            </step>
+            
+            <step>
+                <cmd>click on the new label to enter the new name.</cmd>
+                <info><p>Press enter and you can now use the button.<fig id="fig_ufj_nym_vjb">
+                            <title>Editing Button Label</title>
+                            <image placement="break"
+                                href="Screen%20Shot%202019-11-24%20at%208.44.01%20PM.png"
+                                width="1in" height="1in" align="left" id="image_vfj_nym_vjb">
+                                <alt>Label</alt>
+                            </image>
+                        </fig></p></info>
+                
+            </step>
+            
+        </steps>
+    </taskbody>
+</task>

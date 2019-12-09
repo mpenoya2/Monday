@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="viewing_deadlines">
+    <title>Viewing Deadlines</title>
+    
+    <shortdesc> Viewing deadlines can be used to either remember when tasks are due, but also change deadlines if applicable. </shortdesc>
+    <taskbody>
+        
+        
+        
+        <steps>
+            <step>
+                
+                <cmd>Each category can be expanded by clicking on the category itself
+                </cmd>
+            </step>
+            <step>
+                
+                <cmd>After expanding a category, you can select a deadline by clicking on it. 
+                </cmd>
+            </step>
+            <step>
+                <cmd>This will open the Deadline box which allows you to edit the deadline.  </cmd>
+                <info>
+                    <fig id="fig_wyc_kwm_zjb">
+                        <title>Viewing Dealine</title>
+                        <image placement="break" href="../images/editing_deadlines.png" align="left" scale="50"
+                            id="image_xyc_kwm_zjb"/>
+                    </fig>
+                </info>
+                
+            </step>
+            
+        </steps> 
+        
+        
+    </taskbody>
+    <related-links>
+        <link href="../concept_topics/my_week.dita"/>
+    </related-links>
+</task>

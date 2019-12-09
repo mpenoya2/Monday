@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="c_editing_the_board_status">
+    <title>Editing the Board Status</title>
+    <shortdesc> Monday gives you a big picture view of your project and allows you to instantly see
+        a tasks status. Editing the board status will let your team know where you are in the
+        process of the task.  The names and colors of the status can be altered.</shortdesc>
+    <taskbody>
+      
+        <prereq>
+            <p>Before you can add someone to a board, you must login and create a board.</p>
+           
+        </prereq>
+        <context> There are preset options for the board status; done, stuck, and working on it. You
+            can also create a custom status if you wish. </context>
+        <steps>
+            <step>
+                <cmd>From the board page, click the box under the “Status” tab.</cmd>
+                
+            </step>
+            
+            <step>
+                <cmd>select the status you wish to change the task to or you can create your own status.</cmd>
+                <info>
+                    <fig id="fig_kml_fvm_vjb">
+                        <title>Editing the Board Status</title>
+                        <image placement="break"
+                            href="MattDITA/Screen%20Shot%202019-11-24%20at%208.13.28%20PM.png"
+                            width="1in" height="1in" align="left" id="image_lml_fvm_vjb"/>
+                    </fig>
+                </info>
+                
+            </step>
+        </steps>
+    </taskbody>
+</task>

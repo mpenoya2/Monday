@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="integrations">
+    <title>Integrations</title>
+    <body>
+        <p>Integrations can be made within the Boards to page to use other company collaborative
+            products, such as Google Drive, Gmail, Slack, and more. This allows users to connect all
+            potential files and messages in one place, and can be done very simply from the Monday
+            Boards page. These integrations can also be turned off  at any point if .</p>
+    </body>
+    <related-links>
+        <link href="../task_topics/integrating_monday.dita"/>
+        <link href="../task_topics/turning_an_integrated_item_off.dita"/>
+    </related-links>
+</topic>

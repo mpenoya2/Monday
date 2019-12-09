@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="accessing_the_my_week_page">
+    <title>Accessing the My Week Page</title>
+    <shortdesc>If you need to access the “my week” page, click on the “My Week” tab in the bottom
+        left corner of the dashboard navigation section. This will open the "My Week" page, and show
+        all available projects under the selected date.
+    </shortdesc>
+    
+    <related-links>
+        <link href="../concept_topics/my_week.dita"/>
+    </related-links>
+</task>

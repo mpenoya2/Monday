@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="c_viewing_archived_items">
+    <title>Viewing Archived Items</title>
+    <shortdesc> Monday allows you to archive items instead of deleating them. You may wish to access
+        a past task to view information about it. You can set automations to archive items to save
+        time. </shortdesc>
+    <taskbody>
+      
+        <prereq>
+            <p> You must login to view archived items.</p>
+           
+        </prereq>
+        <context> Archiving items is good practice and allows users to keep their boards clean and
+            orderly. Follow the instructions below to view archived items.</context>
+        <steps>
+            <step>
+                <cmd>Click the three dots in the top right corner of the page.</cmd>
+                <info>
+                    <fig id="fig_g4g_sdn_vjb">
+                        <title>Click the Three Dots</title>
+                        <image placement="break"
+                            href="Screen%20Shot%202019-11-24%20at%209.23.55%20PM.png" width="1in"
+                            height="1in" align="left" id="image_h4g_sdn_vjb">
+                            <alt>Dots</alt>
+                        </image>
+                    </fig>
+                </info>
+                
+            </step>
+            
+            <step>
+                <cmd>Click Archived items/ Groups in the drop down menu</cmd>
+                <info>
+                    <fig id="fig_bq4_d2n_vjb">
+                        <title>Click Archived Tasks/Groups</title>
+                        <image placement="break"
+                            href="Screen%20Shot%202019-11-24%20at%209.24.24%20PM.png" width="1in"
+                            height="2in" align="left" id="image_cq4_d2n_vjb">
+                            <alt>Group</alt>
+                        </image>
+                    </fig>
+                    <p>You can now view your archived groups or add them back to your board.</p>
+                </info>
+               
+            </step>
+            
+        </steps>
+    </taskbody>
+</task>

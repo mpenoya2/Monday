@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_pjc_tyk_vjb">
+    <title>Adding an Automation to a Board</title>
+    <shortdesc>This tab is opened by default when you click on the Automations Center button from the board page. This tab allows you to create automations that Monday will automatically perform for you when you have that automation active. It features multiple categories of automations on the left side of the screen that you can click on to help you find the automation that you are looking for.</shortdesc>
+    <taskbody>
+        <context>
+            <p>This task would be performed in order to create an automation for Monday.com that
+                would cause it to perform a task for you. This is a very common task that you should
+                use as it is very beneficial and cuts out a lot of unnecessary work for you. For
+                example, automations can allow an update to occur based on a status update or they
+                can assign a person as the creator of an item when it is created. This prevents a
+                lot of back-work that team leaders and project managers would otherwise have to
+                perform.</p>
+        </context>
+        
+        <steps>
+            
+            <step>
+                <cmd>From the Automations Center tab, either click on an automation or search for it
+                    in the search bar at the top of the page, to add it to your board</cmd>
+                <info>
+                    <fig id="fig_jrv_d1n_zjb">
+                        <title>Adding an Automation to a Board</title>
+                        <image placement="break"
+                            href="../images/adding_an_automation_to_a_board.png" scale="40"
+                            align="left" id="image_krv_d1n_zjb"/>
+                    </fig>
+                </info>
+            </step>
+            
+       
+            
+            
+            <step>
+                <cmd>After clicking on the automation, a new screen will appear that allows you to edit what the automation does</cmd>
+            </step>
+         
+            
+            <step>
+                <cmd>After editing what the automation does, click the “Add to board” button in the bottom right corner of the screen</cmd>
+            </step>
+            
+            <step>
+                <cmd>The automation is now added to your board</cmd>
+            </step>
+            
+        </steps>
+        
+    </taskbody>
+</task>

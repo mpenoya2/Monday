@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="automations">
+    <title>Automations</title>
+    <body>
+        <p>Automations are used to automatically send updates, notifications, and messages to other
+            users when an action is taken within a board. They Automations can be very broad, or
+            more specific depending on the task at hand. These automations can occur when a status
+            changes, or a new task is added, and have an array of customizable options, as well as
+            pre-made automations. </p>
+    </body>
+    <related-links>
+        <link href="automations_center.dita" format="dita"/>
+        <link href="automations_center_introduction.dita" format="dita"/>
+        <link href="../task_topics/creating_an_automation.dita"/>
+        <link href="../task_topics/adding_an_automation_to_a_board.dita"/>
+    </related-links>
+</topic>

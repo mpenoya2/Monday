@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="inviting_new_users">
+    <title>Inviting New Users</title>
+    
+    <shortdesc>Monday.com is built for collaboration between users to share work and view projects. When a new board is created users can quickly add others if necessary. 
+        Whoever has access to edit the board can add users, and can either add current users or new users. By sending a link to a user, they will be taken to monday.com, where they will be either prompted to login or to sign up. After signing in, users will have access to the board from their home screen.
+        Users can also add other users directly by their email, and they will have access to the board from there. 
+    </shortdesc>
+    <taskbody>
+        
+        
+        
+        <steps>
+            <step>
+                
+                <cmd>From the Board Page, click the add user icon on the side navigation bar. 
+                </cmd>
+            </step>
+            <step>
+                
+                <cmd>Select invite with link or add the users email manually. 
+                </cmd>
+            </step>
+            <step>
+                <cmd>Users will be able to click the link and gain access to the board after signing
+                    in. <image href="inviting_new_users.png" id="image_jfb_cgm_vjb"/></cmd>
+            </step>
+           
+            
+            
+        </steps> 
+        
+        
+    </taskbody>
+    <related-links>
+        <link href="../concept_topics/getting_started.dita"/>
+    </related-links>
+    
+</task>

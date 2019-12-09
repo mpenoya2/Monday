@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="c_integrating_off">
+    <title>Turning an Integrated Item Off </title>
+    <shortdesc> Monday allows users to connect with other apps. Connecting with other apps can
+        notify communication channels when changes have been made to a task.  Monday allows you to
+        connect with Gmail, iCalander, Slack, Drive, Dropbox, MailChimp, Jira and many others.
+        Integrations are a great way to make sure everyone is on the same page and up to date with
+        tasks and projects. You may wish to periodically turn off an integration for a short time or turn it off completely.  </shortdesc>
+    <taskbody>
+      
+        <prereq>
+            <p>You must also login to Monday. You must have previously creatd an integration. </p>
+           
+        </prereq>
+        <context> Integration makes for seemless communication for projects. Follow the steps below
+            to integrate Monday with an outside application.</context>
+        <steps>
+            <step>
+                <cmd>From the board page, click the integration button on the top of the screen. (The icon within the button is shaped like an electrical plug). 
+                </cmd>
+                <info>
+                    <fig id="fig_wxc_sjn_vjb">
+                        <title>Integration Button</title>
+                        <image placement="break"
+                            href="Screen%20Shot%202019-11-24%20at%2010.02.36%20PM.png" width="1in"
+                            height="1in" align="left" id="image_xxc_sjn_vjb">
+                            <alt>I Button</alt>
+                        </image>
+                    </fig>
+                </info>
+               
+                
+            </step>
+            
+            <step>
+                <cmd>Click the Board Integrations tab on the top of the screen.</cmd>
+                <info>
+                    <fig id="fig_r2x_mln_vjb">
+                        <title>Board Integrations</title>
+                        <image placement="break"
+                            href="Screen%20Shot%202019-11-24%20at%2010.20.50%20PM.png" width="3in"
+                            height="1in" align="left" id="image_s2x_mln_vjb">
+                            <alt>BI</alt>
+                        </image>
+                    </fig>
+                </info>
+                
+            </step>
+            
+            <step>
+                <cmd>Find the item you wish to turn off and click the green button to turn the integration off.  </cmd>
+                <info>
+                    <fig id="fig_hft_tln_vjb">
+                        <title>On/Off Button</title>
+                        <image placement="break"
+                            href="Screen%20Shot%202019-11-24%20at%2010.22.14%20PM.png" width="1in"
+                            height="1in" align="left" id="image_ift_tln_vjb">
+                            <alt>on off</alt>
+                        </image>
+                    </fig>
+                </info>
+                
+            </step>
+            
+          
+            
+        </steps>
+    </taskbody>
+</task>

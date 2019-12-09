@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="getting_help">
+    <title>Getting Help</title>
+ <shortdesc>If you are having issues with <xref href="http://monday.com" format="html"
+            scope="external">Monday.com</xref>, multiple help options are available. Depending on
+        what your problems are, you can choose a method that best suits your needs. Users can choose
+        to either leave a suggestion, contact Monday directly, watch Webinars or tutorial vidoes, or
+        read a written guide. </shortdesc>
+    
+    <taskbody>
+    <steps>
+        <step>
+                <cmd>Go to the <xref href="http://monday.com" format="html" scope="external"
+                        >Monday.com </xref>homepage</cmd>
+            </step>
+        <step>
+            
+            <cmd>Click on the "?" icon in the bottom left of the page</cmd>
+        </step>
+        <step>
+            
+            <cmd>An overlay will appear with multiple options for you to choose from, depending on your needs.</cmd>
+        </step>
+        
+    </steps>
+    
+    </taskbody>
+    <body></body>
+    <p>For more information, visit:</p>
+    <related-links>
+        <link href="getting_started.dita"/>
+     
+        
+    </related-links>
+</task>

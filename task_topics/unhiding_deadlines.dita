@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="unhiding_deadlines">
+    <title>Unhiding Deadlines</title>
+    
+    <shortdesc> If deadlines are hidden from view, and you need to see them, the following steps
+        will show you how to make them reappear. To unhide a deadline:</shortdesc>
+    
+    <taskbody>
+        
+        
+        
+        <steps>
+            <step>
+                
+                <cmd>Select the settings icon in the top right corner of the page
+                </cmd>
+            </step>
+            <step>
+                
+                <cmd>A menu will slide in from the right side of the screen
+                </cmd>
+            </step>
+            <step>
+                
+                <cmd>Find the hidden board that you wish to unhide under the “hidden boards” section
+                </cmd>
+            </step>
+            <step>
+                
+                <cmd>Click on the “+” icon to the right of the hidden board title for it to reappear on your “My Week” page
+                </cmd>
+            </step>
+            
+        </steps> 
+        
+        
+    </taskbody>
+    <related-links>
+        <link href="../concept_topics/my_week.dita"/>
+    </related-links>
+</task>

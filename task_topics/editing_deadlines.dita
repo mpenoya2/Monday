@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="editing_deadlines">
+    <title>Editing Deadlines</title>
+    
+    <shortdesc> If deadlines need to be extended or moved up, this is where you would change them. 
+        With the Deadline box open, you can:
+    </shortdesc>
+    
+    <taskbody>
+        
+        
+        
+        <steps>
+            <step>
+                <cmd>View the title of the group that the deadline relates to </cmd>
+            </step>
+            <step>
+                <cmd>View the people that are related to the deadline, or add people to the deadline
+                </cmd>
+            </step>
+            <step>
+                <cmd>View/Change project status </cmd>
+            </step>
+            <step>
+                <cmd>View/Change Deadline date </cmd>
+                <info>
+                    <fig id="fig_jyw_4wm_zjb">
+                        <title>Editing Task Deadlines</title>
+                        <image placement="break" href="../images/editing_deadlines.png" scale="50"
+                            align="left" id="image_kyw_4wm_zjb"/>
+                    </fig>
+                </info>
+            </step>
+        </steps> 
+        
+        
+    </taskbody>
+    <related-links>
+        <link href="../concept_topics/my_week.dita"/>
+    </related-links>
+</task>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="automations_center">
+    <title>Automations Center</title>
+    <body>
+        <p>This tab is opened by default when you click on the Automations Center button from the
+            board page. This tab allows you to create automations that Monday will automatically
+            perform for you when you have that automation active. It features multiple categories of
+            automations on the left side of the screen that you can click on to help you find the
+            automation that you are looking for.</p>
+    </body>
+</topic>

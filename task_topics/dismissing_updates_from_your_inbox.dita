@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="dismissing_updates_from_your_inbox">
+    <title>Dismissing Updates From Your Inbox</title>
+    
+    <shortdesc>Maintaing an organized inbox will increase productivity and make sure you are up to
+        date on information with your team. After a message has been read, it can be dismissed from
+        view if it is no longer required. </shortdesc>
+    <taskbody>
+        
+        
+        
+        <steps>
+            <step>
+                
+                <cmd>To dismiss updates, select the blue circular button with the white check mark inside of it that floats to the right of your updates.
+                    
+                </cmd>
+            </step>
+            <step>
+                <cmd>The update will now be dismissed and will no longer be seen unless the “All
+                    Updates” option is chosen. </cmd>
+                <info>
+                    <fig id="fig_yk3_ytm_zjb">
+                        <title>Dissmissing updates from inbox</title>
+                        <image placement="break"
+                            href="../images/dismissing_updates_from_your_inbox.png" align="left"
+                            id="image_zk3_ytm_zjb"/>
+                    </fig>
+                </info>
+            </step>
+            
+            
+            
+        </steps> 
+        
+        
+    </taskbody>
+    <related-links>
+        <link href="../concept_topics/inbox.dita"/>
+    </related-links>
+    
+</task>

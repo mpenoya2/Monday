@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_b4q_t5k_vjb">
+    <title>Creating a Blank Board</title>
+    <shortdesc>This task allows you to create an empty board on monday.com. This is an essential
+        task in using the website and you have to do this to use most features of the site. This
+        task will have you create, name, and set the visibility opf a board.</shortdesc>
+    <taskbody>
+        
+        <context>
+            <p>Boards on monday.com are used to contain different projects. You can allow different
+                people access to different boards so that only people who are on a project have
+                access to the board. You want to give a name to the blank board because the name
+                will help distinguish it from other boards. You want to make the board visible if
+                you are ready to reveal the project and you want to make the board invisible if you
+                don't want others to have access to it yet.</p>
+        </context>
+        
+        <steps>
+            
+            <step>
+                <cmd>From the homepage, click on the blue “+” button on the upper left side of the screen</cmd>
+            </step>
+            
+            <step>
+                <cmd>Click on "Blank Board"  </cmd>
+                <info>
+                    <fig id="fig_n4r_bym_zjb">
+                        <title>Creating a Blank Board</title>
+                        <image placement="break" href="../images/creating_a_blank_board.png"
+                            scale="25" align="left" id="image_o4r_bym_zjb"/>
+                    </fig>
+                </info>
+            </step>
+            
+            <step>
+                <cmd>Enter the desired name of the board</cmd>
+            </step>
+            
+            <step>
+                <cmd>Select the visibility of the board</cmd>
+            </step>
+            
+            <step>
+                <cmd>Click "Create Board" once desired preferences are chosen</cmd>
+            </step>
+            
+        </steps>
+        
+    </taskbody>
+    
+</task>

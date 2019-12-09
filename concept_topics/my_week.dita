@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="my_week">
+    <title>My Week</title>
+    <body>
+        <p>My week allows users to see what due dates and deadlines are coming up in the current
+            week. They can also travel to future weeks, or previous weeks if necessary to look over
+            past projects. This is useful to keep track of all projects that are due, and make sure
+            that they are completed on time, or review past work.</p>
+        <p>Owners of the Boards will be able to edit the deadlines if needed. Other users can hide boards if they don't want to see it at 
+        the given time, but can easily reverse the decision if necessary.</p>
+    </body>
+    <related-links>
+        <link href="../task_topics/accessing_the_my_week_page.dita"/>
+        <link href="../task_topics/changing_the_week.dita"/>
+        <link href="../task_topics/viewing_deadlines.dita"/>
+        <link href="../task_topics/editing_deadlines.dita"/>
+        <link href="../task_topics/hiding_deadlines.dita"/>
+        <link href="../task_topics/unhiding_deadlines.dita"/>
+    </related-links>
+</topic>

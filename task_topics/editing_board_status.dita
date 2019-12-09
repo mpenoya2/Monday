@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="editing_board_status">
+    <title>Editing Board Status</title>
+    <shortdesc>When a project is complete, or an action is taken for the step, the status can be
+        updated. This tells other users that the step is Complete, In Progress, Delayed, or can be
+        given a custom status. </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>From the Boards page, locate the task that needs an updated status</cmd>
+            </step>
+            <step>
+                <cmd>Under the status column, click on the box in the necessary task row</cmd>
+            </step>
+            <step>
+                <cmd>A selection of status boxes will appear, selcect the appropriate one for the current task status</cmd>
+            </step>
+            <step>
+                <cmd>the task status has now been updated</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

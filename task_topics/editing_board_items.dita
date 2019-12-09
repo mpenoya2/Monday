@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_n41_zvk_vjb">
+    <title>Editing Board Title</title>
+    <shortdesc>This task allows you to change a board's title on monday.com. You would use this
+        feature in order to change the title of a board if the focus of it changes or if it is
+        re-purposed for something else.</shortdesc>
+    <taskbody>
+        
+        <context>
+            <p>Boards on monday.com are used to contain different projects. You can allow different
+                people access to different boards so that only people who are on a project have
+                access to the board. You want to give a name to the blank board because the name
+                will help distinguish it from other boards. You want to make the board visible if
+                you are ready to reveal the project and you want to make the board invisible if you
+                don't want others to have access to it yet.</p>
+        </context>
+        
+        <steps>
+            <step>
+                <cmd>From the Board Page, click on the desired item to edit  </cmd>
+                <info>
+                    <fig id="fig_rnl_jym_zjb">
+                        <title>Editing Board Title</title>
+                        <image placement="break" href="../images/editing_board_title.png" scale="25"
+                            align="left" id="image_snl_jym_zjb"/>
+                    </fig>
+                </info>
+            </step>
+            
+            <step>
+                <cmd>A window from the right will appear, click on the title at the top to begin a name change</cmd>
+            </step>
+            
+            <step>
+                <cmd>Click on the update tab to bring up a text box that allows users to write and post updates</cmd>
+            </step>
+            
+            <step>
+                <cmd>Clicking on the Info tab will allow you to add notes, files, and Questions and Answers</cmd>
+            </step>
+            
+            <step>
+                <cmd>Clicking on the Activity Log tab will allow you to view recent changes and
+                    activity within the board</cmd>
+            </step>
+            
+        </steps>
+        
+    </taskbody>
+    
+</task>

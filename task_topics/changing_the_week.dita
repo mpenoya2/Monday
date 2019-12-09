@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="changing_the_week">
+    <title>Changing the Week</title>
+    
+    <shortdesc>If you want to look ahead at future tasks, or need to look in the past to previous tasks, you can. To view other other weeks: 
+    </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>select the “previous week” or “next week” text links at the top middle of the
+                    page. </cmd>
+            </step>
+            <step>
+                <cmd>The week will switch to either the previous or next week, and show deadlines
+                    relative to those dates. </cmd>
+                <info>
+                    <fig id="fig_qdp_pvm_zjb">
+                        <title>Changing the Week</title>
+                        <image placement="break" href="../images/changing_the_week.png" align="left"
+                            id="image_rdp_pvm_zjb"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="../concept_topics/my_week.dita"/>
+    </related-links>
+</task>

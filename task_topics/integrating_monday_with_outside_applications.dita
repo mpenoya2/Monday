@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="integrating_monday_with_outside_applications">
+    <title>Integrating Monday with Outside Applications</title>
+    <shortdesc>Integrations can be made within the Boards to page to use other company collaborative
+        products, such as Google Drive, Gmail, Slack, and more. This allows users to connect all
+        potential files and messages in one place, and can be done very simply from the Monday
+        Boards page. </shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>From the board page, click the integration button on the top of the screen. (The icon within the button is shaped like an electrical plug). 
+                </cmd>
+                <info>
+                    <fig id="fig_ult_jzm_zjb">
+                        <title>Electrical Plug Icon</title>
+                        <image placement="break"
+                            href="../images/Screen%20Shot%202019-11-24%20at%2010.02.36%20PM.png"
+                            align="left" id="image_vlt_jzm_zjb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>You can search for the app in the search bar or look for the app in the app list. 
+                </cmd>
+                <info>
+                    <fig id="fig_rby_nzm_zjb">
+                        <title>Select the App you Wish to Integrate.</title>
+                        <image placement="break"
+                            href="../images/Screen%20Shot%202019-11-24%20at%2010.06.45%20PM.png"
+                            scale="20" align="left" id="image_sby_nzm_zjb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Click the app you wish to integrate
+                </cmd>
+            </step>
+            <step>
+                <cmd>Select which option you wish to integrate. 
+                </cmd>
+            </step>
+            <step>
+                <cmd>Monday will request you sign in or select a connected account. 
+                </cmd>
+            </step>
+            <step>
+                <cmd>Connect account to Monday and your integration will be active. 
+                </cmd>
+            </step>
+            
+        </steps>
+    </taskbody>
+</task>
